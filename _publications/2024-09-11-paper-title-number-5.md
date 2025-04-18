@@ -3,7 +3,7 @@ title: "Creating cell-specific computational models of stem cell-derived cardiom
 collection: publications
 category: manuscripts
 permalink: /publication/paper-title-number-5
-date: 2024
+date: 2024-09-11
 venue: 'PLOS Computational Biology'
 paperurl: 'http://babjyang.github.io/files/Yang et al. - 2024 - Creating cell-specific computational models of ste.pdf'
 ---

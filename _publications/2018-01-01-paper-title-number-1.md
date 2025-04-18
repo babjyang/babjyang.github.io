@@ -3,7 +3,7 @@ title: "Multiplex Immuno-Liquid Chromatography-Mass Spectrometry-Parallel Reacti
 collection: publications
 category: manuscripts
 permalink: "https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00605"
-date: 2018
+date: 2018-11-02
 venue: 'Journal of Proteome Research'
 paperurl: 'http://babjyang.github.io/files/Zhang et al. - 2018 - Multiplex Immuno-Liquid Chromatography–Mass Spectr.pdf'
 ---

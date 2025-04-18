@@ -3,7 +3,7 @@ title: "Recruitment of Jub by α-catenin promotes Yki activity and Drosophila wi
 collection: publications
 category: manuscripts
 permalink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6432719/
-date: 2019
+date: 2019-03-01
 venue: 'Journal of Cell Science'
 paperurl: 'http://babjyang.github.io/files/Alégot et al. - 2019 - Recruitment of Jub by α-catenin promotes Yki activ.pdf'
 ---

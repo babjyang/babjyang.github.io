@@ -3,7 +3,7 @@ title: "Epitope Mapping by HDX-MS Elucidates the Surface Coverage of Antigens As
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1021/acs.analchem.8b01864
-date: 2018
+date: 2018-10-02
 venue: 'Analytical Chemistry'
 paperurl: 'http://babjyang.github.io/files/Zhang et al. - 2018 - Epitope Mapping by HDX-MS Elucidates the Surface C.pdf'
 ---
