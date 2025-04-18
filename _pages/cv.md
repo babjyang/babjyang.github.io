@@ -57,6 +57,18 @@ Research and work experience
   * Skills: Protein quantification and Western blot, cell culture, histoimmunochemistry, confocal imaging, plasmid transfection, Drosophila genetics and maintenance
   * Supervisor: Dr. Kenneth D. Irvine
 
+Skills
+======
+* Mathematical modeling and simulations of dynamical systems
+* Proficient in MATLAB, Python, UNIX/shell scripting
+* Experience with R, SQL
+* Parallel computation on High Performance Computer systems
+* Object-oriented programming, unit testing, and performance profiling 
+* Machine learning, linear algebra, numerical integration
+* Proficiency working with electrophysiology, proteomic, transcriptomic, and molecular structure data 
+* Experience with fluorescence imaging and time series datasets
+* Experience with X-ray imaging and medical record datasets
+
 Teaching and leadership
 ======
 * Teaching Assistant: Systems Biomedicine core course and lead TA for MATLAB bootcamp
