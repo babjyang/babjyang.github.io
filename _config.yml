@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Jie Yang, PhD"
 title_separator          : "-"
 name                     : &name "Jie Yang"
-description              : &description "personal description"
+description              : &description "Graduating PhD student at the Icahn School of Medicine at Mount Sinai"
 url                      : https://babjyang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "babjyang/babjyang.github.io"
+repository               : "babjyang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jie (Jay) Yang"
-  pronouns         : # example: "he/they"  
+  pronouns         : "he/they"
   bio              : "Hi, welcome! I'm a computational biology researcher & graduating PhD student."
   location         : "New Jersey, USA"
   employer         : "Icahn School of Medicine at Mount Sinai"
