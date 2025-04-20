@@ -5,4 +5,5 @@ type: "Talk"
 venue: "IACM Mechanistic Machine Learning & Digital Engineering Conference"
 date: 2023-09-01
 location: "El Paso, TX, USA (presented virtually)"
+slidesurl: 'http://babjyang.github.io/files/2023 MMLDE talk - JY.pdf'
 ---

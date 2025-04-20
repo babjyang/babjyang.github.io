@@ -20,7 +20,9 @@ I was born in Texas, but mostly raised in New Jersey. I completed my undergradua
 Education
 ------
 Ph.D. - Icahn School of Medicine at Mount Sinai, 2025
+
 M.A. - Columbia University, 2020
+
 B.A. - Rutgers University, 2016
 
 Work
