@@ -1,7 +1,8 @@
 ---
 title: "Gordon Research Conference on Cardiac Arrhythmia Mechanisms"
 collection: talks
-type: "talk"
+type: "Poster"
+venue: "Grand Galvez Hotel"
 date: 2023-02-01
-location: "Grand Galvez Hotel, Galveston, TX, USA"
+location: "Galveston, TX, USA"
 ---
