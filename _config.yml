@@ -22,7 +22,7 @@ repository               : "babjyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JY headshot.png"
+  avatar           : "JY headshot.jpeg"
   name             : "Jie (Jay) Yang"
   pronouns         : "he/they"
   bio              : "Hi, welcome! I'm a computational biology researcher & graduating PhD student."
@@ -196,6 +196,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  posters:
     output: true
     permalink: /:collection/:path/
 
