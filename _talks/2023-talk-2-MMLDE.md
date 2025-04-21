@@ -1,7 +1,8 @@
 ---
 title: "A computational model calibration pipeline for predicting electrophysiological variation in human stem cell-derived cardiomyocytes "
-permalink: 'http://babjyang.github.io/files/2023 MMLDE talk - JY.pdf'
+permalink: 'files/2023 MMLDE talk - JY.pdf'
 collection: talks
+category: manuscripts
 type: "Talk"
 venue: "IACM Mechanistic Machine Learning & Digital Engineering Conference"
 date: 2023-09-01
