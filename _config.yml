@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jie Yang, PhD"
 title_separator          : "-"
 name                     : &name "Jie Yang"
-description              : &description "Computational biology scientist, recently graduated from the Biomedical Sciences PhD program at Mount Sinai"
+description              : &description "Computational biology scientist"
 url                      : https://babjyang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "babjyang.github.io"
@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "JYprofilephoto.jpeg"
   name             : "Jie Yang"
-  pronouns         : "he/they/she"
-  bio              : "Hi, welcome! I'm a computational biology scientist who recently graduated from the Biomedical Sciences PhD program at Mount Sinai."
-  location         : "New York, NY, USA"
-  employer         : "Icahn School of Medicine"
+  pronouns         : "he/they"
+  bio              : "Hi, welcome!"
+  location         : "New Jersey, USA"
+  employer         : "New Jersey Institute of Technology"
   email            : "yangjie0794@gmail.com" 
 
   # Academic websites
